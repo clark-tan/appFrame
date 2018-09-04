@@ -1,0 +1,318 @@
+[
+  {
+    "file": "assets/fonts/iconfont.eot",
+    "hash": "9e1758789f9aebb45ed1ef99246df1d6"
+  },
+  {
+    "file": "assets/fonts/iconfont.svg",
+    "hash": "24b8b94d487e584112fad224e9f7d43d"
+  },
+  {
+    "file": "assets/fonts/iconfont.ttf",
+    "hash": "1d3c986f519eff5b7fdb10f6738882a3"
+  },
+  {
+    "file": "assets/fonts/iconfont.woff",
+    "hash": "6fb137b5b3b9490bb2872b6bb9cb2d71"
+  },
+  {
+    "file": "assets/fonts/ionicons.eot",
+    "hash": "bdf1d30681cf87986c385eea78e8de9a"
+  },
+  {
+    "file": "assets/fonts/ionicons.scss",
+    "hash": "c1fdfabf9cbd412b444f064d27641f10"
+  },
+  {
+    "file": "assets/fonts/ionicons.svg",
+    "hash": "d9496a234c81179afbca6bf5959cc30a"
+  },
+  {
+    "file": "assets/fonts/ionicons.ttf",
+    "hash": "74c652671225d6ded874a648502e5f0a"
+  },
+  {
+    "file": "assets/fonts/ionicons.woff",
+    "hash": "81414686e99c00d2921e03dd53c0ab04"
+  },
+  {
+    "file": "assets/fonts/ionicons.woff2",
+    "hash": "311d81961c5880647fec7eaca1221b2a"
+  },
+  {
+    "file": "assets/fonts/noto-sans-bold.ttf",
+    "hash": "a165a42685795361b25593effb32fdb1"
+  },
+  {
+    "file": "assets/fonts/noto-sans-bold.woff",
+    "hash": "ce3d777f2c41cca1494021cfa3fcd72c"
+  },
+  {
+    "file": "assets/fonts/noto-sans-regular.ttf",
+    "hash": "2fd9c16b805724d590c0cff96da070a4"
+  },
+  {
+    "file": "assets/fonts/noto-sans-regular.woff",
+    "hash": "ce8ba1a4ff970db896192c41fc3c96b1"
+  },
+  {
+    "file": "assets/fonts/noto-sans.scss",
+    "hash": "47d5f7264952ccee8cead7b6dcb6d1bd"
+  },
+  {
+    "file": "assets/fonts/roboto-bold.ttf",
+    "hash": "1f4fd7e4df65487f07ba9148f7ca095d"
+  },
+  {
+    "file": "assets/fonts/roboto-bold.woff",
+    "hash": "43183beef21370d8a4b0d64152287eba"
+  },
+  {
+    "file": "assets/fonts/roboto-bold.woff2",
+    "hash": "28d80f43ae4cc35f19e1f1a6ab670f25"
+  },
+  {
+    "file": "assets/fonts/roboto-light.ttf",
+    "hash": "9ff15bd34ea83e4dd3f23c20c7f5090e"
+  },
+  {
+    "file": "assets/fonts/roboto-light.woff",
+    "hash": "7e2d32e7141050d758a38b4ec96390c0"
+  },
+  {
+    "file": "assets/fonts/roboto-light.woff2",
+    "hash": "a826ff848e9f52b1732fed7d154afa97"
+  },
+  {
+    "file": "assets/fonts/roboto-medium.ttf",
+    "hash": "a937e2cae14e68262a45aa91204c2fdf"
+  },
+  {
+    "file": "assets/fonts/roboto-medium.woff",
+    "hash": "0f3b7101a8adc1afe1fbe89775553c32"
+  },
+  {
+    "file": "assets/fonts/roboto-medium.woff2",
+    "hash": "b2c9c262e089411e20689ed393c00796"
+  },
+  {
+    "file": "assets/fonts/roboto-regular.ttf",
+    "hash": "07f8fb6acbabeb10d3fad9ab02d65e0b"
+  },
+  {
+    "file": "assets/fonts/roboto-regular.woff",
+    "hash": "f94d5e5102359961c44a1da1b58d37c9"
+  },
+  {
+    "file": "assets/fonts/roboto-regular.woff2",
+    "hash": "e6b9d54811307f98da62eae992ae05ba"
+  },
+  {
+    "file": "assets/fonts/roboto.scss",
+    "hash": "e7c30075bc0f0b11422bfbdb2236f9e7"
+  },
+  {
+    "file": "assets/icon/favicon.ico",
+    "hash": "0350f4b3a2067110b1e642ee5931a38a"
+  },
+  {
+    "file": "assets/img/attach/file_128.png",
+    "hash": "4018bf1040026720e99de6dc132db0e7"
+  },
+  {
+    "file": "assets/img/attach/jpg_128.png",
+    "hash": "efccc7aa9d0cad8d4f535e5271a724f0"
+  },
+  {
+    "file": "assets/img/attach/pdf_128.png",
+    "hash": "92095f77681a9a98e455751ef1674e2d"
+  },
+  {
+    "file": "assets/img/attach/ppt_128.png",
+    "hash": "dbb2c9904ad5e4ab092798904e7901ac"
+  },
+  {
+    "file": "assets/img/attach/txt_128.png",
+    "hash": "8511c2954174a6a2b6ed52223043b142"
+  },
+  {
+    "file": "assets/img/attach/unknown_128.png",
+    "hash": "701e9ceba9e4c689420eebef288ae6e3"
+  },
+  {
+    "file": "assets/img/attach/word_128.png",
+    "hash": "2374b773689667d12743ac77548c5186"
+  },
+  {
+    "file": "assets/img/attach/xls_128.png",
+    "hash": "b07216e4c904db01013e60627f6c4fe0"
+  },
+  {
+    "file": "assets/img/attach/zip_128.png",
+    "hash": "d7bd0a9cd07447bde9ea6f3cf2b0e167"
+  },
+  {
+    "file": "assets/img/error.png",
+    "hash": "41352b76ffb12270ea3f2992cef94e02"
+  },
+  {
+    "file": "assets/img/ionic.png",
+    "hash": "251ebf03b1c7889cf36cbcbcce8f689e"
+  },
+  {
+    "file": "assets/img/login_bg.jpg",
+    "hash": "f6b4c1c5da95d0d1e99eb8604cfdbb76"
+  },
+  {
+    "file": "assets/img/login_logo.png",
+    "hash": "9b4db2aceefbb826a526f6af0d27e52b"
+  },
+  {
+    "file": "assets/img/no-user.png",
+    "hash": "fbfc1f9f055155bebdf0eca53e8f5953"
+  },
+  {
+    "file": "assets/json/list.json",
+    "hash": "9604d86a55a43fe628c622c0f9da4778"
+  },
+  {
+    "file": "assets/music/摇一摇结果.mp3",
+    "hash": "7308b65a92b778fb2e299775f69a7de8"
+  },
+  {
+    "file": "assets/music/摇一摇过程.mp3",
+    "hash": "30304c0e4f9534d5b23d31782871ccd4"
+  },
+  {
+    "file": "build/0.js",
+    "hash": "31efac35dea58be0c797c96808ffe620"
+  },
+  {
+    "file": "build/0.js.map",
+    "hash": "bc3c65f6b189dafdbdc0939b8be88e89"
+  },
+  {
+    "file": "build/1.js",
+    "hash": "741185312c8e039631d742f3e1f73a0c"
+  },
+  {
+    "file": "build/1.js.map",
+    "hash": "5313168424dc8c85c1836d274c50b5f1"
+  },
+  {
+    "file": "build/10.js",
+    "hash": "fc73a97aa0f0d3b022f4d73e7d90ccb4"
+  },
+  {
+    "file": "build/10.js.map",
+    "hash": "3611c11dd69029e979e7e4eeb31cf96c"
+  },
+  {
+    "file": "build/11.js",
+    "hash": "f06c47007fa4cdac327fd79650d2faec"
+  },
+  {
+    "file": "build/11.js.map",
+    "hash": "5b7a7589bc0c4aab9da6c37376775696"
+  },
+  {
+    "file": "build/2.js",
+    "hash": "4e3bc8d6b9dc6f1f5e6e07e6764cfa41"
+  },
+  {
+    "file": "build/2.js.map",
+    "hash": "dae804b9257d11385a64a457d0862ae7"
+  },
+  {
+    "file": "build/3.js",
+    "hash": "ebd826d2816dc14b42b66a42f979cbd3"
+  },
+  {
+    "file": "build/3.js.map",
+    "hash": "be36bcb772432825715159e2dce96545"
+  },
+  {
+    "file": "build/4.js",
+    "hash": "65b7362ed8de1fd0039c0e9cada8f382"
+  },
+  {
+    "file": "build/4.js.map",
+    "hash": "0cf71308217d10680314601199cdf81c"
+  },
+  {
+    "file": "build/5.js",
+    "hash": "1adaf1a2dc8cb5460f8c5b18b162f172"
+  },
+  {
+    "file": "build/5.js.map",
+    "hash": "1772f3d11a7dc37fba3d1fe78a46f8f6"
+  },
+  {
+    "file": "build/6.js",
+    "hash": "f3780a57bd26471159694eef24f3cd74"
+  },
+  {
+    "file": "build/6.js.map",
+    "hash": "c51db112bdd5ff624b430a58853bbc4d"
+  },
+  {
+    "file": "build/7.js",
+    "hash": "094aea63b369e4e444d6c0d76125031d"
+  },
+  {
+    "file": "build/7.js.map",
+    "hash": "bffadd5728c362aa1fcd200105c5bef3"
+  },
+  {
+    "file": "build/8.js",
+    "hash": "c713705c48aeefbd114e4d3941ce4be8"
+  },
+  {
+    "file": "build/8.js.map",
+    "hash": "6c80bc283ec922d59d0c09187e70dc3c"
+  },
+  {
+    "file": "build/9.js",
+    "hash": "21a9c8d3dd5a2f0b90e72f5de156308a"
+  },
+  {
+    "file": "build/9.js.map",
+    "hash": "1551d43c831e5a78feea82286b18fc4f"
+  },
+  {
+    "file": "build/main.css",
+    "hash": "e7e0635bd2006ced141837a31b30b9d5"
+  },
+  {
+    "file": "build/main.css.map",
+    "hash": "37a6259cc0c1dae299a7866489dff0bd"
+  },
+  {
+    "file": "build/main.js",
+    "hash": "c0100c3ecad99c73ee441b055d1a9844"
+  },
+  {
+    "file": "build/main.js.map",
+    "hash": "d9b50e5ed8e9cec26050139be9eba132"
+  },
+  {
+    "file": "build/polyfills.js",
+    "hash": "443c697fc904cd88a651d09cf5c2fe2b"
+  },
+  {
+    "file": "build/sw-toolbox.js",
+    "hash": "2770efb889cc10c4de88d0b746c2a13c"
+  },
+  {
+    "file": "build/vendor.js",
+    "hash": "110948d92eb9f075234a6af4e71f1f6b"
+  },
+  {
+    "file": "build/vendor.js.map",
+    "hash": "c448e5855420b127d2977b9c19248fe9"
+  },
+  {
+    "file": "index.html",
+    "hash": "8811d230674bfe503285e6a8841b78e5"
+  }
+]
